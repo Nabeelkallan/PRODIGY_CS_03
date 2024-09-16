@@ -14,7 +14,7 @@ Special character check: Verifies the presence of special characters like !@#$%^
 How to Use
 
 Clone the repository:
-git clone https://github.com/Nabeelkallan/PasswordStrengthTool.git
+git clone https://github.com/Nabeelkallan/PRODIGY_CS_03.git
 
 Navigate to the project directory:
 cd PasswordStrengthTool
